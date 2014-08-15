@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1374706896 source:d:\c++ project\fmod\main.cpp
+	<fmod.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1040380268 d:\c++ project\fmod\fmod.h
+
+1040291686 d:\c++ project\fmod\fmod_errors.h
+
