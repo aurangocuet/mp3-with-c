@@ -1,4 +1,6 @@
-mp3-with-c
-==========
+CLI APP - MP3
+=============
 
-mp3 with c console application.. created with code-block ide..
+MP3 Player in CLI. 
+
+Built using C.
